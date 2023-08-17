@@ -13,6 +13,6 @@ Please make sure that you have a .env file inside that would include your telegr
 
 Step by step guide
 1. Create a .env file
-2. Add in TELE_TOKEN="<your telegram token>"
+2. Add in TELE_TOKEN="(your telegram token)"
 3. Create a folder name JSON
 4. Add the 2 json file l0address.json & zksync.json inside the JSON folder
